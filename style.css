@@ -1,0 +1,59 @@
+.full {
+  height: 100vh;
+  
+  }
+
+
+  .hakkimizda, .galeri {
+    background-color: #f2f2f2;
+  }
+
+  
+
+  .ayrac{
+    border: none;
+    border-top:3px solid #343a40;
+    max-width: 250px;
+    margin: 25px auto;
+  }
+
+  .ibeyaz{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+  }
+
+  .ibeyaz2{
+    color: #343a40;
+    position: relative;
+    top: -55px;
+    font-size: 40px;
+    border: 10px solid #fff;
+    background-color: #fff;
+  }
+
+  .ust{
+    background-color: rgba(72, 50, 50, 0.9) !important;
+    
+  }
+
+  .hover{
+    transition: 0.3s;
+    overflow: hidden;
+  }
+
+  .hover:hover{
+    opacity: 0.8;
+    transform: scale(1.1);
+    
+
+  }
+
+
+
+  
+
+  
